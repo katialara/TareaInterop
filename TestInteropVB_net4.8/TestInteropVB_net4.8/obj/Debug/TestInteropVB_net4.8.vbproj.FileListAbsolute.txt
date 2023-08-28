@@ -1,0 +1,12 @@
+C:\Users\pauli\source\repos\TestInteropVB_net4.8\TestInteropVB_net4.8\bin\Debug\TestInteropVB_net4.8.exe.config
+C:\Users\pauli\source\repos\TestInteropVB_net4.8\TestInteropVB_net4.8\bin\Debug\TestInteropVB_net4.8.exe
+C:\Users\pauli\source\repos\TestInteropVB_net4.8\TestInteropVB_net4.8\bin\Debug\TestInteropVB_net4.8.pdb
+C:\Users\pauli\source\repos\TestInteropVB_net4.8\TestInteropVB_net4.8\bin\Debug\TestInteropVB_net4.8.xml
+C:\Users\pauli\source\repos\TestInteropVB_net4.8\TestInteropVB_net4.8\obj\Debug\TestInteropVB_net4.8.vbproj.AssemblyReference.cache
+C:\Users\pauli\source\repos\TestInteropVB_net4.8\TestInteropVB_net4.8\obj\Debug\TestInteropVB_net4._8.Form1.resources
+C:\Users\pauli\source\repos\TestInteropVB_net4.8\TestInteropVB_net4.8\obj\Debug\TestInteropVB_net4._8.Resources.resources
+C:\Users\pauli\source\repos\TestInteropVB_net4.8\TestInteropVB_net4.8\obj\Debug\TestInteropVB_net4.8.vbproj.GenerateResource.cache
+C:\Users\pauli\source\repos\TestInteropVB_net4.8\TestInteropVB_net4.8\obj\Debug\TestInteropVB_net4.8.vbproj.CoreCompileInputs.cache
+C:\Users\pauli\source\repos\TestInteropVB_net4.8\TestInteropVB_net4.8\obj\Debug\TestInteropVB_net4.8.exe
+C:\Users\pauli\source\repos\TestInteropVB_net4.8\TestInteropVB_net4.8\obj\Debug\TestInteropVB_net4.8.xml
+C:\Users\pauli\source\repos\TestInteropVB_net4.8\TestInteropVB_net4.8\obj\Debug\TestInteropVB_net4.8.pdb

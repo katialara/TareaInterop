@@ -1,0 +1,10 @@
+C:\Users\pauli\source\repos\TestInteropCS_net4.8\TestInteropCS_net4.8\bin\Debug\TestInteropCS_net4.8.exe.config
+C:\Users\pauli\source\repos\TestInteropCS_net4.8\TestInteropCS_net4.8\bin\Debug\TestInteropCS_net4.8.exe
+C:\Users\pauli\source\repos\TestInteropCS_net4.8\TestInteropCS_net4.8\bin\Debug\TestInteropCS_net4.8.pdb
+C:\Users\pauli\source\repos\TestInteropCS_net4.8\TestInteropCS_net4.8\obj\Debug\TestInteropCS_net4.8.csproj.AssemblyReference.cache
+C:\Users\pauli\source\repos\TestInteropCS_net4.8\TestInteropCS_net4.8\obj\Debug\TestInteropCS_net4._8.Form1.resources
+C:\Users\pauli\source\repos\TestInteropCS_net4.8\TestInteropCS_net4.8\obj\Debug\TestInteropCS_net4._8.Properties.Resources.resources
+C:\Users\pauli\source\repos\TestInteropCS_net4.8\TestInteropCS_net4.8\obj\Debug\TestInteropCS_net4.8.csproj.GenerateResource.cache
+C:\Users\pauli\source\repos\TestInteropCS_net4.8\TestInteropCS_net4.8\obj\Debug\TestInteropCS_net4.8.csproj.CoreCompileInputs.cache
+C:\Users\pauli\source\repos\TestInteropCS_net4.8\TestInteropCS_net4.8\obj\Debug\TestInteropCS_net4.8.exe
+C:\Users\pauli\source\repos\TestInteropCS_net4.8\TestInteropCS_net4.8\obj\Debug\TestInteropCS_net4.8.pdb
